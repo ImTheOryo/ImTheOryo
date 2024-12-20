@@ -17,9 +17,9 @@
 
 ![My DB](https://skillicons.dev/icons?i=mysql&theme=dark)
 
-<h6>Softwares</h6>
+<h6>Other</h6>
 
-![My Software](https://skillicons.dev/icons?i=figma,clion,phpstorm,github&theme=dark)
+![My Software](https://skillicons.dev/icons?i=figma,clion,phpstorm,github,postman,linux,window&theme=dark)
 
 
 ![ImTheOryo github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ImTheOryo)

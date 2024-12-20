@@ -7,19 +7,19 @@
 
 <h6>Languages</h6>
 
-![My Languages](https://skillicons.dev/icons?i=c)]
+![My Languages](https://skillicons.dev/icons?i=c,cs)
 
 <h6>Web</h6>
 
-![My Web](https://skillicons.dev/icons?i=js,html,css,dark)]
+![My Web](https://skillicons.dev/icons?i=js,html,css,dark)
 
 <h6>Bata base</h6>
 
-![My DB](https://skillicons.dev/icons?i=mysql&theme=dark)]
+![My DB](https://skillicons.dev/icons?i=mysql&theme=dark)
 
 <h6>Softwares</h6>
 
-![My Software](https://skillicons.dev/icons?i=figma&theme=dark)]
+![My Software](https://skillicons.dev/icons?i=figma,clion,phpstorm,github&theme=dark)
 
 
 ![ImTheOryo github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ImTheOryo)

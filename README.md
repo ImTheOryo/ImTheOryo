@@ -11,7 +11,7 @@
 
 <h6>Web</h6>
 
-![My Web](https://skillicons.dev/icons?i=js,html,css,dark)
+![My Web](https://skillicons.dev/icons?i=js,html,css,php&theme=dark)
 
 <h6>Bata base</h6>
 

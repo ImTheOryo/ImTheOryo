@@ -2,7 +2,7 @@
 
 <p>I'm a 🇧🇪Belgium🇧🇪 Developer who's actively learning</p>
 
-<h5>Technologies that I've Leaned</h5>
+<h3>Technologies that I've Leaned</h3>
 <p></p>
 
 <h6>Languages</h6>
